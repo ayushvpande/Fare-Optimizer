@@ -3,4 +3,4 @@ The big issue concerning the cab rides is the wait involved. More precisely when
 Using data of previous cab rides in that particular city gives the trend of most profitable places. Using K-Means clustering the pickup points in city are clustered so giving cluster centers. These cluster centers are shown in map API in android. Fire base connects systems in modules in project Android with database and database to Machine learning module. Using Random Forest Regression price is projected using previous data of prices. 
 Green hotspots are shown on map API using current location of user. On clicking each hotspots predicted price is shown. On clicking marker on map route is directed on Google Map. 
 
-Group Project for Software Tech Lab 2019 Semester 5, RCOEM.
+Project for Software Tech  2024 Semester 6, BVUCOEP.
